@@ -1,11 +1,13 @@
 # depslib dependency file v1.0
-1710360448 source:c:\meusprojetos\github_repositories\algorithm_analysis\asymptotic_analysis\quick_sort\quicksort.c
+1710778355 source:c:\meusprojetos\github_repositories\algorithm_analysis\asymptotic_analysis\quick_sort\quicksort.c
 	"quickSort.h"
 
-1710359865 c:\meusprojetos\github_repositories\algorithm_analysis\asymptotic_analysis\quick_sort\quicksort.h
+1710778355 c:\meusprojetos\github_repositories\algorithm_analysis\asymptotic_analysis\quick_sort\quicksort.h
+
+1710807811 source:c:\meusprojetos\github_repositories\algorithm_analysis\asymptotic_analysis\quick_sort\main.c
 	<stdio.h>
 	<stdlib.h>
-
-1710360415 source:c:\meusprojetos\github_repositories\algorithm_analysis\asymptotic_analysis\quick_sort\main.c
-	"quickSort.h"
+	<string.h>
+	<stdbool.h>
+	<time.h>
 

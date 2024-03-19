@@ -34,10 +34,6 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="quickSort.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="quickSort.h" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
