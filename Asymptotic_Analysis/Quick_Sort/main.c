@@ -207,7 +207,7 @@ void CountTime(List* L, int times)                          // CONTA O TEMPO DE 
 
         clock_t t = clock();                                    // TEMPO DE INICIAL
         QuickSort(array, 0, List_GetSize(L)-1);
-        printf("TEMPO DE EXECUCAO: %lf\n", ((double)t)/((CLOCKS_PER_SEC)));
+        printf("%lf\n", ((double)clock()-t)/((CLOCKS_PER_SEC)));
     }
 }
 
