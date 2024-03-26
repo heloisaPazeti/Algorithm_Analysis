@@ -57,8 +57,8 @@ int main()
         pch = strtok (NULL, " ");                   // MOVER O PONTEIRO
     }
 
-    CountTime(L, 10);                               // TEMPO DE EXECUÇÃO N VEZES
-    //PrintArray(L);                                  // PRINTA LISTA ORDENADA
+    //CountTime(L, 10);                               // TEMPO DE EXECUÇÃO N VEZES
+    PrintArray(L);                                  // PRINTA LISTA ORDENADA
 
 
     return 0;
